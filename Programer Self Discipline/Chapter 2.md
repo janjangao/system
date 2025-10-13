@@ -20,4 +20,3 @@
 ## Module Linking
 - Communication between modules: function call, variable access
 - Address and Storage Allocation, Symbol Resolution, Relocation
-- 
